@@ -1,0 +1,1 @@
+I'm assuming we'll be going through the basics of html as per usual, I already did a lot of work on freeCodeCamp.org so it may be pretty much wasted effort. That iy is though, a convenient way to learn the style of this teacher better.
